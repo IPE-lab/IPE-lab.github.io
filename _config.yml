@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Intelligent Petroleum Engineering Lab
+description: Intelligent Petroleum Engineering Lab (IPE-lab) is a research lab dedicated to artificial intelligence code development for the petroleum engineering industry
 url: https://IPE-lab.github.io
-avatar: /avatar.jpeg
+avatar: /avatar.png
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: IPE-lab
+  url: https://github.com/IPE-lab
+  email: xxx
