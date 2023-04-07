@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Us
 ---
 
 **Intelligent Petroleum Engineering Lab** is a research lab dedicated to artificial intelligence code development for the petroleum engineering industry.
