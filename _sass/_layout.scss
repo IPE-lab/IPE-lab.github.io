@@ -35,9 +35,9 @@ footer {
 
 @media (min-width: $md-width) {
   .content {
+    width: 100%;
     padding-top: var(--spacer-3);
     padding-left: var(--spacer-3);
-    width: 100%;
     margin-left: 25%;
   }
 
