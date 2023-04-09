@@ -45,7 +45,7 @@ title: About Us
     <h2>Haiyan Zheng</h2>
     <p>PhD Student, College of Artificial Intelligence</p>
     <p>China University of Petroleum, Beijing</p>
-    <p>Research interests: Digital representation of geomaterials, Hydraulic fracturing simulation, Machine learning in engineering, Generative model</p>
+    <p>Research interests: Scientific machine learning, Digital twin in oil and gas production, Time series model</p>
   </div>
   <div style="flex: 1; padding-left: 10px;">
     <img src="/about/img/luji.jpg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
