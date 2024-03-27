@@ -60,7 +60,7 @@ title: About Us
   <div style="flex: 1; padding-right: 10px;">
     <img src="/about/img/zhangjiahao.jpg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
     <h2>Jiahao Zhang</h2>
-    <p>Master Student, College of Artificial Intelligence</p>
+    <p>PhD Student, College of Artificial Intelligence</p>
     <p>China University of Petroleum, Beijing</p>
     <p>Research interests: NLP</p>
   </div>
