@@ -74,7 +74,7 @@ title: About Us
 </div>
 <br/><br/>
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding-right: 10px;">
+   <div style="flex: 1; padding-right: 10px;">
     <img src="/about/img/liwei.jpeg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
     <h2>Wei Li</h2>
     <p>Undergraduate, College of Artificial Intelligence</p>
@@ -82,6 +82,11 @@ title: About Us
     <p>Research interests: Digital twin</p>
   </div>
   <div style="flex: 1; padding-left: 10px;">
+    <img src="/about/img/xuqiwei.jpg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
+    <h2>Qiwei Xu</h2>
+    <p>Master Student, College of Artificial Intelligence</p>
+    <p>China University of Petroleum, Beijing</p>
+    <p>Research interests: Digital twin</p>
   </div>
 </div>
 
