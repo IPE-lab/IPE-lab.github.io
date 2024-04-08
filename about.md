@@ -89,13 +89,13 @@ title: About Us
     <p>Research interests: Intelligent Petroleum Engineering, Oil and Gas Production</p>
   </div>
 </div>
-<!-- <br/><br/>
+<br/><br/>
 <div style="display: flex; flex-wrap: wrap;">
    <div style="flex: 1; padding-right: 10px;">
-    <img src="/about/img/liwei.jpeg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
-    <h2>Wei Li</h2>
-    <p>Undergraduate, College of Artificial Intelligence</p>
+    <img src="/about/img/shican.jpeg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
+    <h2>Can Shi</h2>
+    <p>Ph.D., Oil & Gas Engineering</p>
     <p>China University of Petroleum, Beijing</p>
-    <p>Research interests: Digital twin</p>
+    <p>Research Interest: Rock Mechanics, Geomechanics, Numerical Simulation</p>
   </div>
-</div> -->
+</div>
