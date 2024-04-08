@@ -89,7 +89,7 @@ title: About Us
     <p>Research interests: Intelligent Petroleum Engineering, Oil and Gas Production</p>
   </div>
 </div>
-<br/><br/>
+<!-- <br/><br/>
 <div style="display: flex; flex-wrap: wrap;">
    <div style="flex: 1; padding-right: 10px;">
     <img src="/about/img/liwei.jpeg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
@@ -98,4 +98,4 @@ title: About Us
     <p>China University of Petroleum, Beijing</p>
     <p>Research interests: Digital twin</p>
   </div>
-</div>
+</div> -->
