@@ -14,7 +14,7 @@ title: About Us
     <p>Research interests: Intelligent Petroleum Engineering, Digital Twin</p>
   </div>
   <div style="flex: 1; padding-left: 10px;">
-    <img src="/about/img/shican.jpeg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
+    <img src="/about/img/shican.jpg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
     <h2>Can Shi</h2>
     <p>Ph.D., Oil & Gas Engineering</p>
     <p>China University of Petroleum, Beijing</p>
