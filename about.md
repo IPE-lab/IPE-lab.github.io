@@ -98,4 +98,7 @@ title: About Us
     <p>China National Offshore Oil Corporation</p>
     <p>Research interests: Intelligent Petroleum Engineering, Oil and Gas Production</p>
   </div>
+    <div style="flex: 1; padding-left: 10px;">
+
+  </div>
 </div>
