@@ -14,11 +14,11 @@ title: About Us
     <p>Research interests: Intelligent Petroleum Engineering, Digital Twin</p>
   </div>
   <div style="flex: 1; padding-left: 10px;">
-    <img src="/about/img/zhuqikang.jpg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
-    <h2>Qikang Zhu</h2>
-    <p>Assistant Engineer</p>
-    <p>China National Offshore Oil Corporation</p>
-    <p>Research interests: Intelligent Petroleum Engineering, Oil and Gas Production</p>
+    <img src="/about/img/menghan.jpg" alt="生活照" style="max-width: 50%;border-radius: 15%;" />
+    <h2>Han Meng</h2>
+    <p>Ph.D., School of Computer Science</p>
+    <p>University of Nottingham, UK</p>
+    <p>Research Interest: Explainable Artificial Intelligence, Generative Model, Rock Mechanics, Probabilistic Modeling, Numerical Simulation, Quantitative Investment</p>
   </div>
 </div>
 <br/><br/>
@@ -82,11 +82,11 @@ title: About Us
     <p>Research interests: Digital twin</p>
   </div>
   <div style="flex: 1; padding-left: 10px;">
-    <img src="/about/img/menghan.jpg" alt="生活照" style="max-width: 50%;border-radius: 15%;" />
-    <h2>Han Meng</h2>
-    <p>Ph.D., School of Computer Science</p>
-    <p>University of Nottingham, UK</p>
-    <p>Research Interest: Explainable Artificial Intelligence, Generative Model, Rock Mechanics, Probabilistic Modeling, Numerical Simulation, Quantitative Investment</p>
+    <img src="/about/img/zhuqikang.jpg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
+    <h2>Qikang Zhu</h2>
+    <p>Assistant Engineer</p>
+    <p>China National Offshore Oil Corporation</p>
+    <p>Research interests: Intelligent Petroleum Engineering, Oil and Gas Production</p>
   </div>
 </div>
 <br/><br/>
