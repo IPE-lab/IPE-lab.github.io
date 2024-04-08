@@ -26,9 +26,9 @@ title: About Us
   <div style="flex: 1; padding-right: 10px;">
     <img src="/about/img/shentujunjie.jpg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
     <h2>Junjie Shentu</h2>
-    <p>PhD Student, Department of Computer science</p>
+    <p>Ph.D. candidate, Department of Computer Science</p>
     <p>Durham University</p>
-    <p>Research interests: Digital representation of geomaterials,   Hydraulic fracturing simulation, Machine learning in engineering, Generative model</p>
+    <p>Research interests: Deep Generative model, Rock Mechanics and Engineering, Numerical Simulation, AI Assisted Medical Image Analysis</p>
   </div>
   <div style="flex: 1; padding-left: 10px;">
     <img src="/about/img/zhuhaitao.jpg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
@@ -89,4 +89,13 @@ title: About Us
     <p>Research Interest: Explainable Artificial Intelligence, Generative Model, Rock Mechanics, Probabilistic Modeling, Numerical Simulation, Quantitative Investment</p>
   </div>
 </div>
-
+<br/><br/>
+<div style="display: flex; flex-wrap: wrap;">
+   <div style="flex: 1; padding-right: 10px;">
+    <img src="/about/img/liwei.jpeg" alt="生活照" style="max-width: 50%;border-radius: 15%;">
+    <h2>Wei Li</h2>
+    <p>Undergraduate, College of Artificial Intelligence</p>
+    <p>China University of Petroleum, Beijing</p>
+    <p>Research interests: Digital twin</p>
+  </div>
+</div>
